@@ -6,7 +6,7 @@
 import machine
 import time
 import st7789py
-# 配置为资源模式。
+# 里面配置为资源模式。
 # import vga1_8x16
 # import vga1_16x32
 # 上面这个字库不用了,用tft给的小字库，省点内存
